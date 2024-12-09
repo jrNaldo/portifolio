@@ -9,6 +9,7 @@ body{
     color: white;
 }
 main{
+    width: 100vw;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -20,7 +21,7 @@ h1{
    font-size: 3rem;
 }
 p{
-    color: #d1c7c7eb;
+    color: #d1c7c79c;
     margin: 8px;
 }
 div#social{
@@ -44,7 +45,7 @@ img:hover{
 }
 @media screen and (min-width:320px) and (max-width: 573px) {
     h1{
-        font-size: 2em;
+        font-size: 3rem;
     }
    
     div#social{
